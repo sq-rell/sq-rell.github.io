@@ -1,0 +1,15 @@
+.sidebar {
+    width: 20%;
+    position: fixed;
+    height: 100%;
+    background-color: #EEEEEE;
+    top: 0;
+    left: 0;			    
+}
+.sidebar a {
+    margin: 15px;
+    display: block;
+}
+.main {
+    margin-left: 20%;
+}
