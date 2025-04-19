@@ -1,0 +1,21 @@
+body {
+    background-color: #2A1130;
+    font-family: helvetica;
+    color: #D7F28F;
+}
+
+.intro {
+    text-align: center;
+}
+
+.ingredients {
+    margin: auto 20%;
+}
+
+.directions {
+    margin: auto 20%;
+}
+
+.directions li {
+    margin: 8px;
+}
