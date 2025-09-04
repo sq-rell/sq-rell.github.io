@@ -1,5 +1,5 @@
 body {
-    font-family: helvetica;
+    font-family: arial;
     background-color: #000000;
 }
     
@@ -23,7 +23,7 @@ body {
 .main {
     width: 70%;
     font-size: 20px;
-    color: #FABAEA;
+    color: #FADAEA;
 }
 .box {
     margin-left: 300px;
